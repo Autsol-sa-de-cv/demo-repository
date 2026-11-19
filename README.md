@@ -13,4 +13,3 @@
 
 Breve descripción de lo que hace el proyecto.
 
-## 🚀 Instalación
