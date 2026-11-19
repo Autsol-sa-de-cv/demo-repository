@@ -4,8 +4,8 @@
 
 | Campo | Detalle |
 |-------|---------|
-| **Programador asignado** | Juan Pérez |
-| **Editores** | Ana López, Carlos Ruiz |
+| **Programador asignado proyecto inicial** | Programador 1 |
+| **Editores** | Programador 2, programador 3|
 | **Fecha de creación** | 15/11/2026 |
 | **Última edición** | 19/11/2026 |
 
