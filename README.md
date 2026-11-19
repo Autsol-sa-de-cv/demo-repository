@@ -1,4 +1,16 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Mi Proyecto
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+## 📋 Información General
+
+| Campo | Detalle |
+|-------|---------|
+| **Programador asignado** | Juan Pérez |
+| **Editores** | Ana López, Carlos Ruiz |
+| **Fecha de creación** | 15/11/2026 |
+| **Última edición** | 19/11/2026 |
+
+## 📝 Descripción
+
+Breve descripción de lo que hace el proyecto.
+
+## 🚀 Instalación
